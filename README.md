@@ -27,10 +27,3 @@
 - Pandas (خروجی اکسل)
 - tkcalendar (انتخاب تاریخ)
 
----
-
-## نصب و اجرا
-1. ریپازیتوری را کلون کنید:
-   ```bash
-   git clone https://github.com/YourUsername/CostingSystem.git
-   cd CostingSystem
